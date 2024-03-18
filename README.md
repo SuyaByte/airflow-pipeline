@@ -17,6 +17,3 @@ This project serves as a template for building robust data pipelines, providing 
 ## Acknowledgement
 [Youtuber Darshil Parmar](https://www.youtube.com/@DarshilParmar)
 
-
-
-# Thanks to youtuber https://www.youtube.com/@DarshilParmar
